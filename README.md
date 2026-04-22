@@ -46,5 +46,4 @@ Your recipes belong to you:
 
 Export entire collection as JSON backup
 Import recipes from JSON files
-Bulk Generate up to 3,000 realistic recipes instantly
 All data stored locally in localStorage (privacy-first)
